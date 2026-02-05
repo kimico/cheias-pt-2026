@@ -1,4 +1,4 @@
-O que é a Bitchat?
+O que é a [Bitchat](https://bitchat.free)?
 
 É uma app de mensagens (tipo WhatsApp ou Telegram), mas com uma diferença enorme:
 
@@ -21,7 +21,7 @@ Para que serve na vida real?
 
 Como utilizar: 
 Vai ao browser do teu telemóvel (Chrome, Safari, etc.)  
-Escreve exatamente isto: bitchat.free
+Escreve exatamente isto: [Bitchat](https://bitchat.free)
 
 Carrega no link que aparece  
 Escolhe:  Se tens iPhone → vai para a App Store  
